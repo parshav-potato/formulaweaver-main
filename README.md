@@ -1,6 +1,8 @@
 
 # Spreadsheet Application - Google Sheets Clone
 
+hosted application - https://formulaweaver.vercel.app/
+
 ## Application Overview
 
 This web application is a Google Sheets clone built with React, TypeScript, and Tailwind CSS. It aims to provide a comprehensive spreadsheet experience with support for mathematical functions, data quality functions, drag functionality, and cell dependencies.
