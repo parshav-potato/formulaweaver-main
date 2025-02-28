@@ -2,6 +2,7 @@
 # Spreadsheet Application - Google Sheets Clone
 
 try at - https://formulaweaver.vercel.app/
+![image](https://github.com/user-attachments/assets/f671d443-47af-4c3a-a8ec-cb0c6be2653f)
 
 ## Application Overview
 
