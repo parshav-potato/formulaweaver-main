@@ -222,6 +222,3 @@ The application supports Google Sheets-like drag operations:
 
 **Parshav Jain**
 
-## License
-
-This project is licensed under the MIT License.
