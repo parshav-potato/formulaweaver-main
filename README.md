@@ -1,7 +1,7 @@
 
 # Spreadsheet Application - Google Sheets Clone
 
-hosted application - https://formulaweaver.vercel.app/
+try at - https://formulaweaver.vercel.app/
 
 ## Application Overview
 
